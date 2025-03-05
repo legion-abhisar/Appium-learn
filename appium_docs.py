@@ -95,8 +95,6 @@ from appium.webdriver.extensions.action_helpers import ActionHelpers
 
 action_help = ActionHelpers(driver)
 
-action_help.
-
 # Drag the origin element to the destination element
 action_help.drag_and_drop(origin_el="Element to drag",
                             destination_el="Element to drag to",
